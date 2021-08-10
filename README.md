@@ -1,0 +1,2 @@
+# DiscordBot
+ Handy discord assistant
